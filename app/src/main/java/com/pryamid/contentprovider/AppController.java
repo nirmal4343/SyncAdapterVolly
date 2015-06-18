@@ -10,7 +10,7 @@ import com.android.volley.toolbox.Volley;
 import com.pryamid.contentprovider.config.LruBitmapCache;
 
 /**
- * Created by thakurn on 6/16/2015.
+ * Created by thakurn on 6/16/2015. test
  */
 public class AppController  extends Application {
 
